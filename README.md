@@ -132,7 +132,7 @@ Connect all 4 faces to different inputs of the funny touch as shown
 
 ![](images/multiple.png)
 
-You can now connect some objects to each of the alligator clips, and watch different faces and images show up on the LED panel.
+You can now connect some objects to each of the alligator clips, and watch different faces and images show up on the LED panel. If you are very creative, try using some of the basic controls on the bottom of the screen and figure out what they do.
 
 ### Congratulations
 You have just taken an exciting step in a new direction of engineering and programming. You've made a robot cat, a musical keyboard, and an interactive display. Engineers use many of these types of blocks to build bridges, programs, computers and machines. With your Neuron kit you will be able to make all sorts of wonderful creations.
@@ -142,3 +142,4 @@ If you enjoyed these projects, please feel free to mention neuron on our faceboo
 #### Notes and errata
 * Be sure to read the KJ9190 manual so you get a better understanding of block connections and common mistakes
 * having multiple blocks CAN cause issues depending on set up, usually output blocks (blue) will use the input of their closest input neighbour (orange) from the left.
+* We have created a project controller in our hardcore catalog that can interface with this project. Check out "rPi Project Controller" on our [project pages](https://jaycar.com.au/arduino) or on [github.com/duinotech](https://github.com/duinotech).
