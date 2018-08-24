@@ -134,6 +134,8 @@ Connect all 4 faces to different inputs of the funny touch as shown
 
 You can now connect some objects to each of the alligator clips, and watch different faces and images show up on the LED panel. If you are very creative, try using some of the basic controls on the bottom of the screen and figure out what they do.
 
+![](images/faces.gif)
+
 ### Congratulations
 You have just taken an exciting step in a new direction of engineering and programming. You've made a robot cat, a musical keyboard, and an interactive display. Engineers use many of these types of blocks to build bridges, programs, computers and machines. With your Neuron kit you will be able to make all sorts of wonderful creations.
 
